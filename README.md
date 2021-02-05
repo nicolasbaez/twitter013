@@ -20,9 +20,5 @@ void draw() {
     }
   }
   k++;
-  println(k);
-  if (k<=720) {
-    saveFrame("gif/twitter013-######.png");
-  }
 }
 ```
